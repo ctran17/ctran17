@@ -4,9 +4,9 @@
 
 🧐 I'm interested in utilizing data in the business world and understanding the audiences that such data represents in-depth
 
-📈 I'm currently learning Excel, Python, SQL, Power BI, Tableau and Stata
+📈 I'm currently utilizing Excel, Python, SQL, R, Google Analytics, Looker Studio, Power BI, Tableau and Stata
 
-👩‍💼 I have had experiences in Digital Marketing (Search Engine Optimization and Web Analytics), Customer Success, Digital Transformation, Sales, and Business Operations/ Entrepreneurship
+👩‍💼 I have worked in Digital Marketing, Customer Success, Digital Transformation, Sales, and Entrepreneurship - I am learning to automate these areas with AI models and assistants, and streamline them with data
 
 🎓 I'm looking to become a Business Analyst, Marketing Analyst, Sales & Business Development Analyst, Product Manager, or Management Consultant
 
